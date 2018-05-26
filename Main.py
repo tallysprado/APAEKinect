@@ -1,4 +1,3 @@
 import Utils as io
 
-io.capture()
-
+io.bodyDetection()
